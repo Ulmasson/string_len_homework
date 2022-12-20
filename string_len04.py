@@ -6,4 +6,5 @@ def main(s):
     Returns:
         string
     """
-    return
+    return len(str(s))*"*"
+print(main("Bu kod s harfini yashirib quydi"))
