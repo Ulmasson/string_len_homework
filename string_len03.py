@@ -7,4 +7,5 @@ def main(a,b):
     Returns:
         True or False
     """
-    return
+    return bool(len(str(a)) == (str(b)))
+print(main("asd","sdfd"))
