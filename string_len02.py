@@ -6,4 +6,5 @@ def main(a):
     Returns:
         True or False
     """
-    return
+    return len(str(a))%2==0
+print(main("!!!____Codeschool.uz____!!! "))
